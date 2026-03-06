@@ -47,7 +47,7 @@ Once I confirm we're ready, produce the plan in this exact structure:
 
 ---
 
-### 🗂 Feature: [Feature Name]
+### Feature: [Feature Name]
 
 **Summary:** [1–2 sentence description of what this feature does and why.]
 
@@ -55,7 +55,7 @@ Once I confirm we're ready, produce the plan in this exact structure:
 
 ---
 
-### 🔍 Task 0: Codebase Audit
+### Task 0: Codebase Audit
 
 **Description:**
 Before writing any code, audit the existing codebase to identify reusable components, utilities, hooks, API clients, design system elements, and patterns relevant to this feature. Do not build anything from scratch that already exists.
@@ -72,7 +72,7 @@ Document (as a comment or internal note) which existing code will be reused and 
 
 ---
 
-### ✅ Task [N]: [Task Title]
+### Task [N]: [Task Title]
 
 **Description:**
 [Clear explanation of what this task accomplishes and why it's needed. Written so a developer or AI agent understands the intent, not just the instructions.]
@@ -98,7 +98,7 @@ Document (as a comment or internal note) which existing code will be reused and 
 
 ---
 
-### 🚧 Open Questions / Future Considerations
+### Open Questions / Future Considerations
 
 [Any unresolved questions, known unknowns, or items explicitly deferred to a future iteration.]
 
