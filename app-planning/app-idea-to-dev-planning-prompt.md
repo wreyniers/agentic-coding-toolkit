@@ -98,7 +98,7 @@ Document (as a comment or internal note) which existing code will be reused and 
 
 ---
 
-### 🚧 Open Questions / Future Considerations
+### Open Questions / Future Considerations
 
 [Any unresolved questions, known unknowns, or items explicitly deferred to a future iteration.]
 
@@ -121,5 +121,6 @@ Document (as a comment or internal note) which existing code will be reused and 
 [Paste your feature description here]
 
 --- BRAINDUMP END ---
+
 
 
